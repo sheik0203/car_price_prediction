@@ -1,0 +1,22 @@
+# Environments
+.env
+.venv
+env/
+venv/
+car_price_pro/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+.eslintcache
+
+# Datasets & Large Files
+*.csv
+*.joblib
+*.pkl
